@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+.cv-container {
+    width: 50%;
+    margin: 20px auto;
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(141, 53, 53, 0.1);
+}
+.profile-section {
+    text-align: center;
+}
+.profile-section img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.profile-section h1 {
+    margin: 10px 0;
+}
+.section {
+    margin: 20px 0;
+}
+.section h2 {
+    background-color: #333;
+    color: #fff;
+    padding: 7px;
+    margin: 1 -20px;
+    padding-left: 25px;
+}
+.section ul {
+    list-style: none;
+    padding: 0;
+}
+.section ul li {
+    padding: 5px 0;
+}
+.text {
+    margin-left: 35px;
+}
